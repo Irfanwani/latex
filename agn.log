@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.4.30)  2 MAY 2022 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.4.30)  22 MAY 2022 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -56,20 +56,20 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 (./agn.aux)
 \openout1 = `agn.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count195
@@ -96,7 +96,7 @@ Chapter 1.
 <./images/agn.jpeg, id=1, 219.82124pt x 230.8625pt>
 File: ./images/agn.jpeg Graphic file (type jpg)
 <use ./images/agn.jpeg>
-Package pdftex.def Info: ./images/agn.jpeg  used on input line 8.
+Package pdftex.def Info: ./images/agn.jpeg  used on input line 9.
 (pdftex.def)             Requested size: 219.8207pt x 230.86192pt.
 [1
 
@@ -105,47 +105,4 @@ Package pdftex.def Info: ./images/agn.jpeg  used on input line 8.
 <./images/syfert.jpeg, id=9, 220.825pt x 220.825pt>
 File: ./images/syfert.jpeg Graphic file (type jpg)
 <use ./images/syfert.jpeg>
-Package pdftex.def Info: ./images/syfert.jpeg  used on input line 32.
-(pdftex.def)             Requested size: 220.82445pt x 220.82445pt.
-
-[2 <./images/syfert.jpeg>]
-<./images/radio.jpeg, id=14, 301.125pt x 168.63pt>
-File: ./images/radio.jpeg Graphic file (type jpg)
-<use ./images/radio.jpeg>
-Package pdftex.def Info: ./images/radio.jpeg  used on input line 58.
-(pdftex.def)             Requested size: 301.12425pt x 168.62958pt.
-<./images/quasar.jpeg, id=15, 301.125pt x 168.63pt>
-File: ./images/quasar.jpeg Graphic file (type jpg)
-<use ./images/quasar.jpeg>
-Package pdftex.def Info: ./images/quasar.jpeg  used on input line 74.
-(pdftex.def)             Requested size: 301.12425pt x 168.62958pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./images/radio.jpeg>]
-<./images/blazar.jpeg, id=20, 276.03125pt x 184.69pt>
-File: ./images/blazar.jpeg Graphic file (type jpg)
-<use ./images/blazar.jpeg>
-Package pdftex.def Info: ./images/blazar.jpeg  used on input line 88.
-(pdftex.def)             Requested size: 276.03056pt x 184.68953pt.
- [4 <./images/quasar.jpeg> <./images/blazar.jpeg>] (./agn.aux) ) 
-Here is how much of TeX's memory you used:
- 1323 strings out of 480247
- 21550 string characters out of 5896151
- 308113 words of memory out of 5000000
- 19304 multiletter control sequences out of 15000+600000
- 472043 words of font info for 37 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 55i,6n,62p,282b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on agn.pdf (4 pages, 102815 bytes).
-PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Package pdftex.def Info: ./images/sy
